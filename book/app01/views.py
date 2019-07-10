@@ -68,13 +68,4 @@ def edit_book(request, n):
 
 
 
-def  hello(request):
-    return  HttpResponse('no')
 
-
-def  funk(request):
-    return   HttpResponse('ok')
-
-
-def  funk2(request):
-    return   HttpResponse('ok')
